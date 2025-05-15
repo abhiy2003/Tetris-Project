@@ -1,3 +1,3 @@
 # Tetris-Project
 
-Interactive Tetris game
+This is an interactive Tetris game.
